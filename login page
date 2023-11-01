@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>second_deja.vu</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" type="image" href="/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" href="/img/логотип.jpg" />
+</head>
+
+<body>
+
+    <div class="container">
+
+
+        <h1>Войти в Аккаунт!</h1>
+        <hr>
+
+        <div class="login_inputs">
+
+            <input type="text" placeholder="Логин" class="log"> <br>
+            <input type="password" placeholder="Пароль" class="pass">
+
+
+        </div>
+
+        <div class="forgot_pass">
+            <a href="#">Забыли Пароль?</a>
+        </div>
+        <button class="login_btn"><a href="index1.html">ВОЙТИ</a></button>
+        <div class="reg">
+
+            <p><a href="regestration.html">Нет аккаунта? </a><br><span><a href="regestration.html">Зарегистрируйтесь здесь!</a></span></p>
+        </div>
+    </div>
+
+
+
+
+</body>
+
+</html>
