@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+display: flex;
+justify-content: space-between;
+}
+
+.oaoa{
+   
+    width: 250px;
+    height: 1000%;
+    position: sticky;
+    top:0;
+}
+.nnn{
+  
+    width: 250PX;
+    height: 1000%;
+    position: sticky;
+    top:0;
+}
+
+    .grid {
+
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+  }
+    .obsii{
+        text-align: left;
+        display: inline;
+    }
